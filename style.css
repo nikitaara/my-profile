@@ -1,0 +1,64 @@
+body {
+	background-color: rgb(254, 227, 236);
+	color:rgb(242, 120, 159);
+	font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+	font-weight: 100;
+	text-align: justify;}
+
+div {border: 2px solid pink;
+	margin: 30px;
+	border-radius: 5%;}
+
+a {text-decoration: none;}
+a:hover{color: darkcyan;}
+
+
+
+#photo{ height: 300px;
+width: auto;
+border-radius: 50%;
+text-align: center;
+margin-left: 300px;
+
+}
+
+#logo{ height: 100px;
+width: auto;
+border-radius: 15%;}
+
+#titre { font-family:Snell Roundhand, cursive ;
+font-size: 60px;
+color: rgb(242, 120, 159);             
+height: 300px;
+text-align: center;
+}
+
+.carte{ margin-left: 150px; }
+ 
+.btn-violet{ 
+	color: light pink;
+	padding: 20px 20 ppx;
+	margin-left: 330px;}
+
+
+.card-white {
+background-color: white;
+padding: 40px;
+box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);}
+
+.list-inline li {display: inline;
+padding: 1Opx;}
+
+.list-inline i {font-size: 100px;
+margin-left: 200px;}
+
+
+		
+
+
+
+
+
+
+	
+
